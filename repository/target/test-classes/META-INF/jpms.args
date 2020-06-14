@@ -1,0 +1,4 @@
+--patch-module
+com.pocs.modulespoc.repository=_
+--add-reads
+com.pocs.modulespoc.repository=ALL-UNNAMED

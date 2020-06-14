@@ -1,0 +1,4 @@
+--patch-module
+com.pocs.modulespoc.application=_
+--add-reads
+com.pocs.modulespoc.application=ALL-UNNAMED
