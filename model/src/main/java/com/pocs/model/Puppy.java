@@ -12,6 +12,15 @@ public class Puppy {
     private String name;
     private int age;
 
+    public Puppy() {
+        // No-arg constructor
+    }
+
+    public Puppy(String name, int age) {
+        this.name = name;
+        this.age = age;
+    }
+
     public String getId() {
         return id;
     }

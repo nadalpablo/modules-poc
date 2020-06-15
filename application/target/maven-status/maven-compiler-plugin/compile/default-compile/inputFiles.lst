@@ -1,2 +1,3 @@
 /home/pablo/code/pocs/modules-poc/application/src/main/java/com/pocs/application/ModulesPocApplication.java
 /home/pablo/code/pocs/modules-poc/application/src/main/java/module-info.java
+/home/pablo/code/pocs/modules-poc/application/src/main/java/com/pocs/application/config/ModulesPocConfiguration.java
